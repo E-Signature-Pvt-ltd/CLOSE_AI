@@ -737,10 +737,10 @@ packages:
     dependency: "direct main"
     description:
       name: google_generative_ai
-      sha256: bb7d3480b05afb3b1f2459b52893cb22f69ded4e2fb853e212437123c457f1be
+      sha256: e2f4c0ac13f0898f670ce5ac0dc4501ebe09b96f9d59163724380d9aa82065be
       url: "https://pub.dev"
     source: hosted
-    version: "0.4.0"
+    version: "0.4.4"
   google_identity_services_web:
     dependency: transitive
     description:
